@@ -60,11 +60,6 @@ This project is built with:
 
 ## How can I deploy this project?
 
-
-
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Access the live version of the application deployed on Vercel:
+Sayyad-Fayaz-Basha-Showcase-Portfolio
+https://sayyad-fayaz-basha-showcase-portfol.vercel.app/
