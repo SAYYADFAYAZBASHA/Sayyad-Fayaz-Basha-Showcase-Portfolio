@@ -27,10 +27,10 @@ To run this project locally:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/fayaz-basha-portfolio.git
+git clone [https://github.com/yourusername/fayaz-basha-portfolio.git](https://github.com/SAYYADFAYAZBASHA/Sayyad-Fayaz-Basha-Showcase-Portfolio.git)
 
 # Navigate to the project directory
-cd fayaz-basha-portfolio
+cd Sayyad-Fayaz-Basha-Showcase-Portfolio
 
 # Install dependencies
 npm install
@@ -41,7 +41,7 @@ npm run dev
 
 ## Deployment
 
-The site is deployed and can be accessed at [your-portfolio-url.com](https://your-portfolio-url.com)
+
 
 ## Contact
 
@@ -60,9 +60,8 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/2dd248f0-9924-42a8-90d6-ba6f44d5d909) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+
 
 Yes, you can!
 
