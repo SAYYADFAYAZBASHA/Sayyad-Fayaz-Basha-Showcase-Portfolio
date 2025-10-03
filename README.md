@@ -1,4 +1,4 @@
-# Fayaz Basha - Portfolio Website
+# Sayyad-Fayaz-Basha-Showcase-Portfolio
 
 ## Project Overview
 
